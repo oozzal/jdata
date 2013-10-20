@@ -1,0 +1,4 @@
+Set Path of mysql_connector.jar to class path in environment variables
+I have it in:
+C:\Program Files\Java\jre6\lib\ext\
+But the class path is set to C:\Program Files\Java\jre6\lib\ext\QTjava.zip
